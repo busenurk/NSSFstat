@@ -4,14 +4,18 @@ A collection of interactive data visualizations for the Norwegian [National Cent
 
 <br>
 
-🔄 Data updates: Twice a year, in parallel with the [Norwegian Institute of Public Health (FHI)](https://statistikk.fhi.no/).
+🔄 Updates: Twice a year, in parallel with [Norwegian Institute of Public Health (FHI)](https://statistikk.fhi.no/).
 
-🌍 Languages: Available in Norwegian and English.
+🌍 Languages: Norwegian and English.
 
 <br>
 
 ## 📄 Reports
 
-- Report – [Norwegian](https://busenurk.github.io/NSSFstat/2025_report_english.html)
+- [Norwegian report](https://busenurk.github.io/NSSFstat/2025_report_english.html)
 
-- Report – [English](https://busenurk.github.io/NSSFstat/2025_report_norwegian.html)
+- [English report](https://busenurk.github.io/NSSFstat/2025_report_norwegian.html)
+
+  <br>
+
+  Happy exploring! 😊
