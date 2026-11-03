@@ -1,10 +1,14 @@
 # 📊 NSSF – Statistics & Visualizations
 
-A collection of interactive data visualizations for the [Norwegian National Centre for Suicide Research and Prevention (NSSF)](https://www.med.uio.no/klinmed/forskning/sentre/nssf/).
+A collection of interactive data visualizations for the Norwegian [National Centre for Suicide Research and Prevention (NSSF)](https://www.med.uio.no/klinmed/forskning/sentre/nssf/).
+
+<br>
 
 🔄 Data updates: Twice a year, in parallel with the [Norwegian Institute of Public Health (FHI)](https://statistikk.fhi.no/).
 
-🌍 Languages: Available in Norwegian 🇳🇴 and English 🇬🇧.
+🌍 Languages: Available in Norwegian and English.
+
+<br>
 
 📄 Reports
 
