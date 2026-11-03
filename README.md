@@ -12,6 +12,6 @@ A collection of interactive data visualizations for the Norwegian [National Cent
 
 ## 📄 Reports
 
-Report – [Norwegian](https://busenurk.github.io/NSSFstat/2025_report_english.html)
+- Report – [Norwegian](https://busenurk.github.io/NSSFstat/2025_report_english.html)
 
-Report – [English](https://busenurk.github.io/NSSFstat/2025_report_norwegian.html)
+- Report – [English](https://busenurk.github.io/NSSFstat/2025_report_norwegian.html)
